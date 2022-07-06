@@ -1,3 +1,5 @@
+
+// Script source: https://www.youtube.com/watch?v=lzK8vM_wdoY&t=417s
 // const video = document.getElementById("video");
 
 // function startUp(){
@@ -11,20 +13,7 @@
 
 // window.addEventListener("load", startUp, false);
 
-// const imgInput = document.querySelector("#img-input");
-//  var uploadedImg = "";
-
-//  imgInput.addEventListener("change", function(){
-//     const FileReader = new FileReader();
-//     reader.addEventListener("load", () => {
-//         uploadedImg = reader.result;
-//         console.log(uploadedImg)
-//         document.querySelector("#display-img").style.backgroundImage = "url(" + uploadedImg + ")"; // This line isn't working
-//     });
-//     reader.readAsDataURL(this.files[0]);
-
-//  })
-
+// Script source: https://www.youtube.com/watch?v=xqIVrjKhfaU
 var uploadedImg = undefined;
 
 window.addEventListener("load", function(){
